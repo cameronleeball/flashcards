@@ -38,7 +38,7 @@ inquirer.prompt([
     if (cardType === "basic") {
         BasicCard();
     }
-    else {
+    else { 4
         ClozeCard();
     }
 });
