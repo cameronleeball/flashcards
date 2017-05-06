@@ -1,0 +1,23 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "Interactive CLI flashcard application with both basic and cloze deletion card types.",
+  "main": "flashcards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronleeball/flashcards.git"
+  },
+  "author": "Cameron Ball",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cameronleeball/flashcards/issues"
+  },
+  "homepage": "https://github.com/cameronleeball/flashcards#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^3.0.6"
+  }
+}
